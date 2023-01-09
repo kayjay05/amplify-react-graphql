@@ -1,0 +1,12 @@
+{
+  "resourceName": "mybucket",
+  "policyUUID": "7dc167b3",
+  "bucketName": "buckettestproject",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
